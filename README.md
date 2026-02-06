@@ -1,4 +1,4 @@
 # odin-recipes
 Project: Recipes
 
-All recipes provided by <a href="https://www.allrecipes.com" target="_blank" rel="noreferrer">Allrecipes</a>.
+All recipes provided by [Allrecipes](https://www.allrecipes.com).
